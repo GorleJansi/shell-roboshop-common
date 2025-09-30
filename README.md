@@ -35,8 +35,9 @@ source ./common.sh
 
 This allows the script to access all functions and variables from common.sh without duplicating code.
 
-Example usage:
+**Example usage:**
 
+```bash
 source ./common.sh   # Load shared functions
 check_root           # Ensure script is run as root
 app_setup            # Deploy application code
@@ -45,8 +46,9 @@ systemd_setup        # Setup systemd service
 app_restart          # Restart service
 print_total_time     # Print total execution time
 
+```
 
-Repository Structure
+📂 **Repository Structure**
 | Script         | Description                                                                            |
 | -------------- | -------------------------------------------------------------------------------------- |
 | `common.sh`    | Shared functions (`check_root`, `VALIDATE`, logging, timing) used by all other scripts |
@@ -87,7 +89,7 @@ Logs are saved at:
     /var/log/shell-roboshop/<script_name>.log
 
 
-Notes
+**⚠️Notes**
 
 Scripts must be run as root.
 
