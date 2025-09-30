@@ -91,13 +91,13 @@ Logs are saved at:
 ## Project Pictures
 
 ### Pic 1
-![Roboshop Pic 1](../robo-pics/roboshop-pic1)
+![Roboshop Pic 1](robo-pics/roboshop-pic1.png)
 
 ### Pic 2
-![Roboshop Pic 2](../robo-pics/roboshop-pic2)
+![Roboshop Pic 2](robo-pics/roboshop-pic2.png)
 
 ### Pic 3
-![Roboshop Pic 3](../robo-pics/roboshop-pic3)
+![Roboshop Pic 3](robo-pics/roboshop-pic3.png)
 
 **⚠️Notes**
 
