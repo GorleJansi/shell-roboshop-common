@@ -88,17 +88,6 @@ Logs are saved at:
     ```bash
     /var/log/shell-roboshop/<script_name>.log
     
-## Project Pictures
-
-### Pic 1
-![Roboshop Pic 1](robo-pics/roboshop-pic1.png)
-
-### Pic 2
-![Roboshop Pic 2](robo-pics/roboshop-pic2.png)
-
-### Pic 3
-![Roboshop Pic 3](robo-pics/roboshop-pic3.png)
-
 **⚠️Notes**
 
 Scripts must be run as root.
