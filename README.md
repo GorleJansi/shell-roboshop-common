@@ -31,7 +31,7 @@ This repository contains **bash automation scripts** to deploy and configure the
 
 ```bash
 source ./common.sh
-
+```
 
 This allows the script to access all functions and variables from common.sh without duplicating code.
 
